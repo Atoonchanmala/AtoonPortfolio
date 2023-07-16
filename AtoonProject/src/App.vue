@@ -5,10 +5,11 @@
   <div class="d-flex flex-row mb-3">
     <div class="p-2">ສະບາຍດີ</div>
     <div lang="la" class="p-2">ສະບາຍດີ</div>
-    <div class="p-2">Flex item 3</div>
+    <div class="p-2">
+      <span class="material-symbols-outlined"> search </span>
+    </div>
   </div>
 </template>
 
 <style scoped>
-
 </style>
